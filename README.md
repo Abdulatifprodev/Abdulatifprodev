@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Abdulatifprodev
+- 👋 <h1>My name is Abdulatif
 - 👀 I’m interested in machine learning and AI but I don't know pytorch, tensorflow
-- 🌱 I’m currently learning machine leaarning, telegram-bot, web, django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning machine learning, telegram-bot, web, django
+
 
 <!---
 Abdulatifprodev/Abdulatifprodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
