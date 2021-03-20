@@ -13,9 +13,9 @@
 3. So, Bot can translate text on picture!!!
 Try now with Awesome Translator Bot. 🤩🤩🤩</p>
 <hr>
-<h3><a href="https://t.me/codetophoto_bot">@codetophoto_bot: </a></h3>
-<p>@codetophoto_bot is the easiest way to create and share beautiful images of your source code!😇
-Share @codetophoto_bot with your coder friends..!</p>
+<h3><a href="https://t.me/iPicodeBot">@iPicodeBot: </a></h3>
+<p>@iPicodeBot is the easiest way to create and share beautiful images of your source code!😇
+Share @iPicodeBot with your coder friends..!</p>
 <hr>
 <h3><a href="https://maktab44.pythonanywhere.com">My School Website: </a></h3>
 <p>This site made with Python(Django) and CSS frameworks. This is my school website.</p>
